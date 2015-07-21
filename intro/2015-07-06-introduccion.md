@@ -9,7 +9,7 @@ section: intro
 category: intro
 ---
 
-Esta Guía de Implementación de la Política de Datos Abiertos, “Guía”, está dirigida las dependencias, entidades y empresas productivas del Estado, en adelante “Organizaciones”, responsables de cumplir con la implementación de la Política de Datos Abiertos, instaurada mediante el Decreto que establece la regulación en materia de Datos Abiertos, “Decreto de Datos Abiertos”.
+Esta Guía de Implementación de la Política de Datos Abiertos, “Guía”, está dirigida las dependencias, entidades y empresas productivas del Estado, en adelante “Instituciones”, responsables de cumplir con la implementación de la Política de Datos Abiertos, instaurada mediante el Decreto que establece la regulación en materia de Datos Abiertos, “Decreto de Datos Abiertos”.
 
 Además, esta Guía permitirá cumplir con la normatividad vigente ligada a la Política de Datos Abiertos como:
 
